@@ -19,7 +19,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "yarn build",
-    "deploy": "gh-pages -d build -r https://github.com/vishalkrgupta/Monsters-Rolodex.git"
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
